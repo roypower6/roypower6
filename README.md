@@ -51,9 +51,9 @@
 ## 🚀 Projects
 ### Flutter Projects
 - [📱 Solved.ac Viewer App](https://github.com/roypower6/Solved.ac-Viewer) - 코딩 문제 해결 현황 확인 앱
+- [📱 My Movie Base](https://github.com/roypower6/my_movie_base) - TMDB API를 이용한 영화 추천, 검색 앱
 - [📱 Your Finance App](https://github.com/roypower6/your_finance) - 한국은행 API 활용 앱
 - [📱 Where and Weather](https://github.com/roypower6/Where-and-Weather) - OpenWeatherMap 활용 날씨 확인 앱
-- [📱 My Movie Base](https://github.com/roypower6/My-Movie-Base) - TMDB API를 이용한 영화 추천, 검색 앱
 - [📱 Will](https://github.com/roypower6/Will) - 간단한 Todo 메모 앱
 
 ### Python Projects
