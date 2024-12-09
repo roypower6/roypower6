@@ -47,11 +47,3 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
-
-### Python Projects
-- [🌐 Web Status Checker](https://github.com/roypower6/NomadCoder-Python-Lecture/blob/main/URL_Checker.py) - http 공부용 프로젝트
-- [✏️ Solved.ac API Study](https://github.com/roypower6/Solved.ac-API-Study)
-  - Solved.ac Ranking Viewer
-  - Profile Viewer
-  - Coin Exchange Rate Viewer
-  - Problem Search Program
