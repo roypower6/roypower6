@@ -42,8 +42,10 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white)
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+### Skills
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" alt="Dart"> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white" alt="Go"> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white" alt="Rust">
+
+### Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
+
+
